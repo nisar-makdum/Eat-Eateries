@@ -35,4 +35,4 @@ The Website is about foods ordering services. In this site you will find some ca
 ### Deploy Tools:
 
 1.  Firebase
-2.  GitHUb
+2.  GitHub
